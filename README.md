@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="gifs/giphy.gif" width="100%" alt="Welcome Banner" />
+  <img src="gifs/shanks.gif" width="100%" alt="Welcome Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Agra 👋</h1>
+<h1 align="center">Hi, I'm Agra Saputra 👋</h1>
 
 <p align="center">
   🌐 Junior Web Developer | 💡 Lifelong Learner | 🛠️ Problem Solver
@@ -52,8 +52,11 @@
     <a href="https://www.linkedin.com/in/namamu" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:emailkamu@gmail.com">
+    <a href="mailto:agra.saputra1987@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://tiktok.com/@agraes31">
+      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" />
     </a>
     <a href="https://yourwebsite.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
@@ -68,3 +71,18 @@
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
     </a>
   </span>
+
+---
+
+<!--
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=iShyne97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iShyne97&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iShyne97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=iShyne97&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
